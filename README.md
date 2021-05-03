@@ -1,4 +1,4 @@
-# kamiblaze
+# What is Kami Blaze?
 Kami Blaze is an utility mod for ClassiCube
 
 # How to use?
